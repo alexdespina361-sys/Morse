@@ -1,0 +1,5 @@
+{
+  "name": "Morse Code Trainer",
+  "description": "A web app for practicing Morse code with customizable settings and transcription mode.",
+  "requestFramePermissions": []
+}
